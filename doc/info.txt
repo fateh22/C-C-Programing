@@ -1,0 +1,5 @@
+How to c and c++ compiler on centos
+https://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/
+
+c questions
+https://www.programiz.com/c-programming/examples
