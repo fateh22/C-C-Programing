@@ -3,3 +3,6 @@ https://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-de
 
 c questions
 https://www.programiz.com/c-programming/examples
+
+readme.md
+https://www.geeksforgeeks.org/what-is-readme-md-file/
