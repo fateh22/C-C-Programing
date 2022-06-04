@@ -1,8 +1,8 @@
 ## C Programming Language
 
 ### Table Content
-- [Introduction](https://github.com/fateh22/C-C-Programing/edit/main/README.md#introduction)
-- [Data Types in C](https://github.com/fateh22/C-C-Programing/edit/main/README.md#introduction)
+- [Introduction](https://github.com/fateh22/C-C-Programing#introduction)
+- [Data Types in C](https://github.com/fateh22/C-C-Programing#data-types-in-c)
 
 ### Introduction
 C is considered as a middle-level language because it **supports the feature of both low-level and high-level languages**. C language program is converted into assembly code, it supports pointer arithmetic (low-level), but it is machine independent (a feature of high-level).
@@ -15,10 +15,10 @@ The C Language is developed by **Dennis Ritchie** for creating system applicatio
 
 ### Data Types in C
 A data type specifies the type of data that a variable can store such as integer, floating, character, etc.
-![image](./images/data_type_in_c.png)
+![data_type_in_c description](./images/data_type_in_c.png)
 
 Types | Data Types
- ------------ | ------------- 
+ ------------ | -------------
 Basic Data Type | int, char, float, double
 Derived Data Type | array, pointer, structure, union
 Enumeration Data Type | enum
@@ -43,8 +43,8 @@ unsigned short int	| 2 byte |	0 to 65,535
 long int	| 4 byte | -2,147,483,648 to 2,147,483,647
 signed long int	| 4 byte | 	-2,147,483,648 to 2,147,483,647
 unsigned long int	| 4 byte | 0 to 4,294,967,295
-float	| 4 byte	
-double	| 8 byte	
+float	| 4 byte
+double	| 8 byte
 long double	| 10 byte
 Basic Data Type | int, char, float, double
 Derived Data Type | array, pointer, structure, union
@@ -63,4 +63,3 @@ cc program1.c -o bin/output
 g++ cpp/customer.cpp -o bin/customer
 ./bin/customer
 ```
-
