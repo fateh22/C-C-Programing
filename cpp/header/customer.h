@@ -1,5 +1,5 @@
-//https://stackoverflow.com/questions/9579930/separating-class-code-into-a-header-and-cpp-file
-// A2DD.h
+//doc: https://stackoverflow.com/questions/9579930/separating-class-code-into-a-header-and-cpp-file
+
 #ifndef CUSTOMER_H
 
   class Customer {
