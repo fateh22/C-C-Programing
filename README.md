@@ -15,7 +15,7 @@ The C Language is developed by **Dennis Ritchie** for creating system applicatio
 
 ### Data Types in C
 A data type specifies the type of data that a variable can store such as integer, floating, character, etc.
-![data_type_in_c description](./images/data_type_in_c.png)
+![Alt Data Types in C](./images/data_type_in_c.png)
 
 Types | Data Types
  ------------ | -------------
