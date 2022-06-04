@@ -1,5 +1,9 @@
 // C Program to Make a Simple Calculator Using switch...case
 
+/*
+  cc program1.c -o bin/output
+  bin/output
+*/
 #include <stdio.h>
 
 int main(void) {
