@@ -10,7 +10,7 @@ allocated but when it is instantiated (i.e. an object is created) memory is
 allocated.
 
 =======================
-compile file - g++ c_plus/customer.cpp -o bin/customer
+compile file - g++ cpp/customer.cpp -o bin/customer
 run this file: - ./bin/customer
 */
 
